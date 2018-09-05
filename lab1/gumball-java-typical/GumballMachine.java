@@ -36,18 +36,21 @@ public class GumballMachine
         this.remain_cost = this.min_cost;
     }
 
+    // Check what coins are accepted in a particular gumball machine
     public void coinAllow (boolean quarter, boolean dime, boolean nickel, boolean penny)
     {
-        accept_quarter = quarter;
-        accept_dime = dime;
-        accept_nickel = nickel;
-        accept_penny = penny;
+        this.accept_quarter = quarter;
+        this.accept_dime = dime;
+        this.accept_nickel = nickel;
+        this.accept_penny = penny;
     }
 
     public void insertCoin(int coin)
     {
-        if ( checkCoin(coin) == true )     
+        if ( checkCoin(coin) == true )
+        {        
             this.remain_cost -= coin;
+        }
         else
             System.out.println("This coin is not accepted. Try again.");
     }
@@ -85,7 +88,7 @@ public class GumballMachine
         }
         else
         {
-          System.out.println( "No More Gumballs!  Sorry, no returns." ) ;
+          System.out.println( "No More Gumballs! Sorry, no returns." ) ;
         }
       }
       else 
