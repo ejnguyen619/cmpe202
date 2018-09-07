@@ -3,18 +3,18 @@
 public class Main {
 
   public static void main(String[] args) {
-    GumballMachine gumballMachine = new GumballMachine(5);
+    GumballMachine gumballMachine = new GumballMachine(5,1);
 
     System.out.println(gumballMachine);
 
-    gumballMachine.insertCoin();
+    gumballMachine.insertCoin(25);
     gumballMachine.turnCrank();
 
     System.out.println(gumballMachine);
 
-    gumballMachine.insertCoin();
+    gumballMachine.insertCoin(25);
     gumballMachine.turnCrank();
-    gumballMachine.insertCoin();
+    gumballMachine.insertCoin(25);
     gumballMachine.turnCrank();
 
     System.out.println(gumballMachine);
