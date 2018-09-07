@@ -9,8 +9,10 @@ public class GumballMachine {
  
   State state = soldOutState;
   int count = 0;
-  int remain_cost;
+  int cur_cost;
   int min_cost;
+  int model_num;
+  int cur_coin;
 
   boolean accept_quarter;
   boolean accept_dime;
@@ -47,7 +49,8 @@ public class GumballMachine {
         this.min_cost = 50;
         break;  
     }
-    this.remain_cost = this.min_cost; 
+    this.cur_cost = 0;
+    this.model_num = type; 
   }
  
   // Check what coins are accepted in a particular gumball machine
@@ -60,7 +63,31 @@ public class GumballMachine {
   }
 
   public void insertCoin(int coin) {
-    state.insertCoin();
+    if (checkCoin(coin)) {
+      this.cur_coin = coin;
+      state.insertCoin();
+    }
+    else
+      System.out.println("Coin cannot be inserted");
+  }
+
+  public boolean checkCoin(int coin) {
+    boolean accept_coin = false;
+    switch(coin) {
+      case 25:
+        accept_coin = this.accept_quarter;
+        break;
+      case 10:
+        accept_coin = this.accept_dime;
+        break;
+      case 5:
+        accept_coin = this.accept_nickel;
+        break;
+      case 1:
+        accept_coin = this.accept_penny;
+        break;
+    }
+    return accept_coin;
   }
  
   public void ejectCoins() {
@@ -75,6 +102,14 @@ public class GumballMachine {
   void setState(State state) {
     this.state = state;
   }
+
+  void setCurrentCost(int coin) {
+    this.cur_cost += coin;
+  }
+
+  void resetCurrentCost() {
+    this.cur_cost = 0;
+  }
  
   void releaseBall() {
     System.out.println("A gumball comes rolling out the slot...");
@@ -87,13 +122,21 @@ public class GumballMachine {
     return count;
   }
 
-  int getRemainCost() {
-    return remain_cost;
+  int getCurrentCost() {
+    return cur_cost;
   }
 
   int getMinCost() {
     return min_cost;
   }
+
+  int getModelNumber() {
+    return model_num;
+  }
+
+  int getCurrentCoin() {
+    return cur_coin;
+  } 
 
   boolean getAcceptQuarter() {
     return accept_quarter;

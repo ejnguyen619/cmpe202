@@ -3,12 +3,13 @@
 public class Main {
 
   public static void main(String[] args) {
-    GumballMachine gumballMachine = new GumballMachine(5,1);
+    GumballMachine gumballMachine = new GumballMachine(5,3);
 
     System.out.println(gumballMachine);
 
-    gumballMachine.insertCoin(25);
+    gumballMachine.insertCoin(10);
     gumballMachine.turnCrank();
+    gumballMachine.ejectCoins();
 
     System.out.println(gumballMachine);
 

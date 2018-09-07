@@ -10,11 +10,17 @@ public class EnoughMoneyState implements State {
   }
   
   public void insertCoin() {
-    System.out.println("You can't insert another quarter");
+    if (gumballMachine.getModelNumber() == 1 || gumballMachine.getModelNumber() == 2 ) {
+      System.out.println("You can't insert another quarter");
+    }
+    else {
+      System.out.println("Total value exceed minimum cost.");
+    }
   }
  
   public void ejectCoins() {
-    System.out.println("Quarter returned");
+    gumballMachine.resetCurrentCost();
+    System.out.println("Your money has been returned");
     gumballMachine.setState(gumballMachine.getNotEnoughMoneyState());
   }
  
