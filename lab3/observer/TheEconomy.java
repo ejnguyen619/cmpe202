@@ -1,5 +1,7 @@
 package observer;
 
+  
+
 public class TheEconomy extends ConcreteSubject {
 
     public TheEconomy()

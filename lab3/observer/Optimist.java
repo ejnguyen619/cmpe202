@@ -1,5 +1,7 @@
 package observer;
 
+  
+
 public class Optimist extends ConcreteObserver {
  
     public Optimist( ConcreteSubject sub )
