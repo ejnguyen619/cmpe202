@@ -7,53 +7,43 @@
          Notify customer if available
        Collaborators: None		 
 
-     |  Class Name Waitlist             | Collaborators   |
-     |  ------------------------------  | Restaurant      |
-     |  Responsibilities                | WaitStatus      |
-	 |	  Get customer ready for table	| Table           |
-	 |	  Check if available table		| Customer        |
-	 |    Set customer ready for table  |                 |
-	 |    Show customer ready for table |                 |
+       Class Name Waitlist             
+       Responsibilities:                
+	 	 Get customer ready for table	
+	 	 Check if available table		
+	     Set customer ready for table  
+	     Show customer ready for table
+	   Collaborators: Restaurant, WaitStatus, Table, Customer
 	 
-      ----------------------------------------------------
-     |  Class Name Table                | Collaborators   |
-     |  ------------------------------  |                 |
-     |  Responsibilities                |                 |
-     |    Get status of selected table  |                 |
-     |    Get number of seats on table  |                 |
-     |	  Set table as open or filled   |                 |
-	  ----------------------------------------------------
+       Class Name Table                
+       Responsibilities:                
+         Get status of selected table  
+         Get number of seats on table  
+     	 Set table as open or filled   
+	   Collaborators: None
 
-      ----------------------------------------------------
-     |  Class Name Customer             | Collaborators   |
-     |  ------------------------------  |                 |
-     |  Responsibilities                |                 |
-     |    Stop sending messages         |                 |
-     |    Confirm reservation           |                 |
-     |    Leave waitlist                |                 |
-      ----------------------------------------------------
+       Class Name Customer           
+       Responsibilities:              
+         Stop sending messages        
+         Confirm reservation          
+         Leave waitlist                
+       Collaborators: None
 
-      ----------------------------------------------------
-     |  Class Name WaitStatus           | Collaborators   |
-     |  ------------------------------  | Waitlist        |
-     |  Responsibilities                | Customer        |
-     |    Show State of Customer        |                 |
-      ----------------------------------------------------
+       Class Name WaitStatus           
+       Responsibilities               
+         Show State of Customer        
+       Collaborators: Waitlist, Customer
 
-      ----------------------------------------------------
-     |  Class Name Waiting              | Collaborators   |
-     |  ------------------------------  | WaitStatus      |
-     |  Responsibilities                |                 |
-     |    Stop sending messages         |                 |
-      ----------------------------------------------------
+       Class Name Waiting              
+       Responsibilities               
+         Stop sending messages
+       Collaborators: WaitStatus		 
 
-      ----------------------------------------------------
-     |  Class Name Available            | Collaborators   |
-     |  ------------------------------  | WaitStatus      |
-     |  Responsibilities                |                 |
-     |    Confirm reservation           |                 |
-     |    Leave waitlist                |                 |
-      ----------------------------------------------------
+       Class Name Available            
+       Responsibilities                
+         Confirm reservation           
+         Leave waitlist
+       Collaborators: WaitStatus		 
  
  2. Explanation:
 	The design pattern used are Observer and State. 
