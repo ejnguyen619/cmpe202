@@ -1,15 +1,11 @@
 1. CRC Cards:
 
-      ----------------------------------------------------
-     |  Class Name Restaurant           | Collaborators   |
-     |  ------------------------------  |                 |
-     |  Responsibilities                |                 |
-     |    Add customer to waitlist      |                 |
-     |    Remove customer from waitlist |                 |
-     |    Notify customer if available  |                 |
-      ----------------------------------------------------
+       Class Name Restaurant             
+       Responsibilities				    Collaborators                                 
+         Add customer to waitlist         None                
+         Remove customer from waitlist                  
+         Notify customer if available                  
 
-      ----------------------------------------------------
      |  Class Name Waitlist             | Collaborators   |
      |  ------------------------------  | Restaurant      |
      |  Responsibilities                | WaitStatus      |
@@ -17,7 +13,6 @@
 	 |	  Check if available table		| Customer        |
 	 |    Set customer ready for table  |                 |
 	 |    Show customer ready for table |                 |
-      ----------------------------------------------------
 	 
       ----------------------------------------------------
      |  Class Name Table                | Collaborators   |
