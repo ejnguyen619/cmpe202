@@ -2,24 +2,33 @@
 
        Class Name Restaurant             
        Responsibilities:				                                     
-         Add customer to waitlist                         
-         Remove customer from waitlist                  
+         Add customer to notification system                         
+         Remove customer from notification system                  
          Notify customer if available
        Collaborators: None		 
 
-       Class Name Waitlist             
+       Class Name notification system             
        Responsibilities:                
 	 	 Get customer ready for table	
 	 	 Check if available table		
 	     Set customer ready for table  
 	     Show customer ready for table
-	   Collaborators: Restaurant, WaitStatus, Table, Customer
+	   Collaborators: Restaurant, WaitStatus, Customer Arrangement, Customer, Table
 	 
-       Class Name Table                
-       Responsibilities:                
-         Get status of selected table  
-         Get number of seats on table  
-     	 Set table as open or filled   
+       Class Name Customer Arrangement               
+       Responsibilities:
+         Register customer into system
+		 Add customer to waitlist
+		 Remove customer from waitlist
+         Send text to customer		   
+	   Collaborators: None
+	   
+	   Class Name Table               
+       Responsibilities:
+         Check for available tables
+		 Check number of seats for selected table
+		 Assign table to customer party
+         Set table as open or filled		 
 	   Collaborators: None
 
        Class Name Customer           
@@ -32,7 +41,7 @@
        Class Name WaitStatus           
        Responsibilities               
          Show State of Customer        
-       Collaborators: Waitlist, Customer
+       Collaborators: notification system, Customer
 
        Class Name Waiting              
        Responsibilities               
@@ -43,7 +52,12 @@
        Responsibilities                
          Confirm reservation           
          Leave waitlist
-       Collaborators: WaitStatus		 
+       Collaborators: WaitStatus
+
+       Class Name Gone            
+       Responsibilities                         
+         Leave waitlist
+       Collaborators: WaitStatus		 	   
  
  2. Explanation:
 	The design pattern used are Observer and State. 
@@ -55,10 +69,10 @@
     Observer:
 	-Subject (Interface): Restaurant
 	-Observer (Interface): Customer
-	-ConcreteSubject: Waitlist
+	-ConcreteSubject: notification system
 	-ConcreteObserver: WaitStatus
 	
 	State:
-	-Context (Interface): Waitlist
+	-Context (Interface): notification system
 	-State (Interface): Customer
 	-ConcreteState subclasses: Waiting, Available
