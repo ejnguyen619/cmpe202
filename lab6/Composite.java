@@ -1,19 +1,22 @@
+import java.util.ArrayList;
+
+
 public class Composite implements Component {
 
-   private ArrayList<Component> components = new ArrayList<~>();
+   private ArrayList<Component> components = new ArrayList<Component>();
    private String description;
    private double price;
    
    // default constructor for order
    public Composite(String d){
       description = d;
-      price = null;	  
+      price = 0.00;	  
    }
    
    // default constructor for custom burger
    public Composite(String d, double p){
       description = d;
-	  price = p;
+      price = p;
    }
    
    public void addChild(Component c){
@@ -38,10 +41,10 @@ public class Composite implements Component {
 
    // reference
    public void printDescription(){
-      System.out.println(description);
-	  for(Component obj : components) {
-		  obj.printDescription();
-	  }
+      System.out.println(description + " " + price);
+      for(Component obj : components) {
+         obj.printDescription();
+      }
    }      
    
 }
