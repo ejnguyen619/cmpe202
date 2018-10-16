@@ -1,18 +1,20 @@
-public class Toppings extends LeafDecorator
+public class Bun extends LeafDecorator
 {
     private String[] options ;
     
     
-    public Toppings( String d )
+    public Bun( String d )
     {
         super(d) ;
     }
     
-    // unlimited toppings
-    // change to logic
+    // new class for buns
     public void setOptions( String[] options )
     {
         this.options = options ;
+        if ( "Gluten-Free Bun".equals(options[0]) ) this.price += 1.00 ;
+        if ( "Hawaiian Bun".equals(options[0]) ) this.price += 1.00 ;
+        if ( "Pretzel Bun".equals(options[0]) ) this.price += 0.50 ;
     }
     
     public String getDescription() 

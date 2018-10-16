@@ -1,18 +1,19 @@
-public class Toppings extends LeafDecorator
+public class Side extends LeafDecorator
 {
     private String[] options ;
     
     
-    public Toppings( String d )
+    public Side( String d )
     {
         super(d) ;
     }
     
-    // unlimited toppings
-    // change to logic
+    // Side +3.00
+    // new class
     public void setOptions( String[] options )
     {
         this.options = options ;
+        this.price += options.length * 3.00;
     }
     
     public String getDescription() 

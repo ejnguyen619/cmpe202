@@ -17,7 +17,9 @@ public class CustomBurger extends Composite
     
     public void printDescription() {
         DecimalFormat fmt = new DecimalFormat("0.00");
-        System.out.println( " " + description + " " + fmt.format(decorator.getPrice()) );
+        System.out.println();
+        System.out.println();
+        System.out.println( description + " " + fmt.format(decorator.getPrice()) );
         for (Component obj  : components)
         {
             obj.printDescription();
