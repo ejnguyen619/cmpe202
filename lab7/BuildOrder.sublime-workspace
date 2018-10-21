@@ -1,0 +1,781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"wrapDecorator"
+			],
+			[
+				"pr",
+				"PremiumCheese"
+			],
+			[
+				"String",
+				"StringBuffer"
+			],
+			[
+				"gumballm",
+				"gumballMachine"
+			],
+			[
+				"get",
+				"getCurrentCost"
+			],
+			[
+				"gumb",
+				"gumballMachine"
+			],
+			[
+				"cur",
+				"cur_coin"
+			],
+			[
+				"acc",
+				"accept_quarter"
+			],
+			[
+				"re",
+				"remain_cost"
+			],
+			[
+				"accep",
+				"accept_nickel"
+			],
+			[
+				"mn",
+				"min_cost"
+			],
+			[
+				"N",
+				"Next_Dep"
+			],
+			[
+				"Ne",
+				"Next"
+			],
+			[
+				"arri",
+				"arrival_time"
+			],
+			[
+				"flight",
+				"flight_leg"
+			],
+			[
+				"depart",
+				"departure"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"Pre",
+				"Prev_Arr"
+			],
+			[
+				"Tri",
+				"Tried2"
+			],
+			[
+				"P",
+				"Prev_Arr"
+			],
+			[
+				"over",
+				"overnight_flight"
+			],
+			[
+				"tran",
+				"transfer_flight"
+			],
+			[
+				"fli",
+				"flight_leg"
+			],
+			[
+				"Prev",
+				"Prev_Dep"
+			],
+			[
+				"Next",
+				"Next_Dep"
+			],
+			[
+				"depa",
+				"departure"
+			],
+			[
+				"depar",
+				"departure"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"arr",
+				"arrival_minutes"
+			],
+			[
+				"arrival",
+				"arrival_hours"
+			],
+			[
+				"dep",
+				"depart_minutes"
+			],
+			[
+				"arriva",
+				"arrival_time"
+			],
+			[
+				"new",
+				"new_hours"
+			],
+			[
+				"trav",
+				"travel_minutes"
+			],
+			[
+				"staticfiles",
+				"staticfiles_storage\tinstance"
+			],
+			[
+				"as",
+				"as_view\tfunction"
+			],
+			[
+				"Re",
+				"RedirectView\tclass"
+			],
+			[
+				"static",
+				"staticfiles_storage\tstatement"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"sr",
+				"src_title\tstatement"
+			],
+			[
+				"ne",
+				"new_update"
+			],
+			[
+				"ma",
+				"max_length\tparam"
+			],
+			[
+				"Ch",
+				"CharField\tclass"
+			],
+			[
+				"Model",
+				"ModelForm"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"auto",
+				"auto_now_add\tparam"
+			],
+			[
+				"Da",
+				"DateTimeField\tclass"
+			],
+			[
+				"box",
+				"box-primary"
+			],
+			[
+				"eval",
+				"eval-args"
+			],
+			[
+				"ft",
+				"ft_print"
+			],
+			[
+				"trun",
+				"truncate"
+			],
+			[
+				"stude",
+				"students_projects\tstatement"
+			],
+			[
+				"clean",
+				"cleanup_students_projects\tstatement"
+			],
+			[
+				"stud",
+				"students_projects\tstatement"
+			],
+			[
+				"stu",
+				"students_projects\tstatement"
+			],
+			[
+				"studen",
+				"students_projects\tstatement"
+			],
+			[
+				"em",
+				"emails"
+			],
+			[
+				"clea",
+				"cleanup_projects\tstatement"
+			],
+			[
+				"cl",
+				"cleanup_students\tstatement"
+			],
+			[
+				"student",
+				"students_num\tstatement"
+			],
+			[
+				"students_project",
+				"students_projects_not"
+			],
+			[
+				"studn",
+				"students_projects\tstatement"
+			],
+			[
+				"app",
+				"append\tfunction"
+			],
+			[
+				"pro",
+				"projects_num\tstatement"
+			],
+			[
+				"project",
+				"projects_num\tstatement"
+			],
+			[
+				"sl",
+				"slug\tparam"
+			],
+			[
+				"proje",
+				"projects_in_course\tfunction"
+			],
+			[
+				"projects",
+				"projects_num"
+			],
+			[
+				"F",
+				"False\tinstance"
+			],
+			[
+				"dea",
+				"default"
+			],
+			[
+				"mem",
+				"members\tstatement"
+			],
+			[
+				"ca",
+				"case"
+			],
+			[
+				"ava",
+				"avail_mem\tstatement"
+			],
+			[
+				"curre",
+				"current_mem\tstatement"
+			],
+			[
+				"need",
+				"need_mem\tstatement"
+			],
+			[
+				"MA",
+				"MAX_CHOICES"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "BuildOrder.java",
+			"settings":
+			{
+				"buffer_size": 4764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Side.java",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Burger.java",
+			"settings":
+			{
+				"buffer_size": 1049,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7"
+	],
+	"file_history":
+	[
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Burger.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/PremiumCheese.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Composite.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/CustomBurger.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Client.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Leaf.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Component.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Toppings.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Sauce.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Side.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Cheese.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/PremiumToppings.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Bun.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab7/Burger.ctxt",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/Screen.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/Frame.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/AppController.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/AppAuthProxy.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/MenuCommand.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/MenuOption.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/MyCards.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/FourPinDigits.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/IPinState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/PinEntryMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/IPinStateMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/Main.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/main/java/starbucks/Passcode.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Personal-Project/cmpe202-ejnguyen619/starbucks/src/test/java/starbucks/AppProxyTest.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/observer/ObserverTest.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab2/Client.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab2/Composite.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/package.bluej",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/TheEconomy.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/Subject.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/Optimist.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/Pessimist.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/ObserverTest.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/Observer.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/ConcreteSubject.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab3/ConcreteObserver.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Composite.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Premium.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Sauce.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/CustomBurger.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Cheese.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Burger.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Toppings.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/PriceDecorator.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/LeafDecorator.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Leaf.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/BuildOrder.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Client.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/Component.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-Extra/lab2/package.bluej",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/Main.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/SoldOutState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/SoldState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/EnoughMoneyState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/NotEnoughMoneyState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/GumballMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/State.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-typical/Question 1/GumballMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/GumballMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/HasQuarterState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-pattern/Question 2/NoQuarterState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/Main.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/SoldState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/HasQuarterState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/NoQuarterState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/SoldOutState.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/State.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/package.bluej",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-pattern/Makefile",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-typical/Question 1/Makefile",
+		"/C/Users/Edward/Documents/SJSU/cmpe202-BlueJ/lab1/gumball-java-typical/Question 1/Main.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-typical/GumballMachine.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-typical/Main.java",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-typical/Makefile",
+		"/C/Users/Edward/Documents/SJSU/cmpe202/lab1/gumball-java-typical/package.bluej",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn4/functions.pl",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/static/favicon.ico",
+		"/C/Users/Edward/Downloads/favicon.ico",
+		"/C/Users/Edward/Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn3/hzip.st",
+		"/C/Users/Edward/Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn3/example-files/sortedcollection.st",
+		"/C/Users/Edward/Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn3/example-files/priority.st",
+		"/C/Users/Edward/Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn3/example-files/charfreq.st",
+		"/C/Users/Edward/Documents/UCSC/Classes/CMPS 112/CMPS112/Asgn3/example-files/catfile.st",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/courses/models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/core/views.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/core/functional_test.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/projects/forms.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/projects/test_views.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/courses/views.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/core/models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/urls.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/core/tests.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/profiles/forms.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/profiles/models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/courses/test_models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/projects/views.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/projects/models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/projects/test_models.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/profiles/views.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/settings.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/apps/courses/forms.py",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/courses/view_courses.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/projects/add_resource.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/courses/join_course.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/courses/create_course.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/courses/view_statistics.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/courses/view_course.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/projects/view_project.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/projects/post_update.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/projects/edit_project.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS116/twdev/teamwork-project/teamwork/templates/projects/partial_projcet_list.html",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/11-let.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/10-exprs.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/01-1to10.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/0-0.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/30-input-pi.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbir/12-let.sbir",
+		"/C/Users/Edward/My Documents/UCSC/Classes/CMPS 112/asg1/CMPS112/Asgn1/sbi.scm",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/templates/projects/edit_project.html",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/templates/projects/create_project.html",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/apps/courses/views.py",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/apps/courses/forms.py",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/apps/courses/models.py",
+		"/C/Users/Edward/Desktop/tb_dev/true-path/teamwork-project/teamwork/apps/views.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pincount",
+			"authenticated",
+			"args",
+			"authenticated",
+			"auth",
+			"ejectQuarter",
+			"insertQuarter",
+			"HasQuarterState",
+			"hasQuarterState",
+			"noQuarterState",
+			"noCoinState",
+			"Quarter",
+			"isleaf",
+			"pado",
+			"writeindex",
+			"bintreedump",
+			"bitstream",
+			"isleaf",
+			"islea",
+			"nextbit",
+			"print",
+			"submit",
+			"label",
+			"meeting times",
+			"update",
+			"resource",
+			"program-counter",
+			"readlist",
+			"interpret-progra",
+			"#hash",
+			"#hash()",
+			"write-program-by-line",
+			"avatar",
+			"projects.css",
+			".css",
+			"all",
+			"queryset"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ejectCoins",
+			"insertCoin",
+			"enoughMoneyState",
+			"EnoughMoneyState",
+			"notEnoughMoneyState",
+			"NotEnoughMoneyState",
+			"Coin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "BuildOrder.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3367,
+								3367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 77.0,
+						"translation.y": 1050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Side.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Burger.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BuildOrder.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
