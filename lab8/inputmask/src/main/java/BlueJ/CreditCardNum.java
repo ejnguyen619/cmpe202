@@ -15,7 +15,8 @@ public class CreditCardNum implements IDisplayComponent, IKeyEventHandler
 		if ( number.equals("") )
 			return "[4444 4444 4444 4444]" + "  " ;
 		else
-			return "[" + number + "]" + "  " ;
+			//return displayformat() ;
+			return "[" + number + "]" + "  " ;		
 	}	
 
 	public void key(String ch, int cnt) {
@@ -66,6 +67,6 @@ public class CreditCardNum implements IDisplayComponent, IKeyEventHandler
 		}
 		cardnum = buf.toString();
 		return "[" + cardnum + "]" + "  " ;		
-	}	
+	}
 
 }
